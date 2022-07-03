@@ -2,13 +2,11 @@
 #### I am a student. Now I am learning Web Development
 ![I am a student. Now I am learning Web Development]
 
-(https://img.freepik.com/free-vector/vector-banner-website-development_107791-3339.jpg?w=996&t=st=1656815365~exp=1656815965~hmac=6d2af9788a75b9e445ba77ecab2a85517fc464087d48714fb2ee9ebf26aae91a)
-
 I made this project just for my profile looks goods. And It's also pretty nice to see.
 
 Skills: HTML / CSS / JS
 
-- 🔭 I’m currently working on I am student 
+- 🔭 I’m currently a college student 
 - 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Web Development 
