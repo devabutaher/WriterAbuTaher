@@ -1,5 +1,3 @@
-(https://img.freepik.com/free-vector/vector-banner-website-development_107791-3339.jpg?w=996&t=st=1656815365~exp=1656815965~hmac=6d2af9788a75b9e445ba77ecab2a85517fc464087d48714fb2ee9ebf26aae91a)
-
 ### Hi there 👋, my name is Abu Taher
 #### I am a student. Now I am learning Web Development
 ![I am a student. Now I am learning Web Development]
