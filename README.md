@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Abu Taher
+### Assalamu Alaikum, my name is Abu Taher
 #### I am a student. Now I am learning Web Development
-![I am a student. Now I am learning Web Development]
 
 I made this project just for my profile looks goods. And It's also pretty nice to see.
 
