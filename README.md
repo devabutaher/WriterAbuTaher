@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Assalamu+Alaikum+!;My+name+is+Abu+Taher.;I+am+a+Web+Developer.;Feel+free+to+get+in+touch.;Nice+to+meet+you+!)
+
+
 <h1 align="center">Hello 🤍 I'm Abu Taher</h1>
 <h3 align="center" >Love to build projects with MERN</h3>
 
@@ -19,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/writerabutaher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/writerabutaher/" height="30" width="40" /></a>
-<a href="https://fb.com/abutaher9682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abutaher9682" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devabutaher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devabutaher/" height="30" width="40" /></a>
+<a href="https://fb.com/abutaher9682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/devabutaher" height="30" width="40" /></a>
 <a href="https://discord.gg/AbuTaher#8693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AbuTaher#8693" height="40" width="40" /></a>
 </p>
 
@@ -49,16 +52,16 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=writerabutaher&theme=dark" alt="writerabutaher" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devabutaher&theme=dark" alt="devabutaher" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=writerabutaher&show_icons=true&theme=dracula&locale=en" alt="writerabutaher" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devabutaher&show_icons=true&theme=dracula&locale=en" alt="devabutaher" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=writerabutaher&show_icons=true&theme=dracula&locale=en&layout=compact" alt="writerabutaher" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabutaher&show_icons=true&theme=dracula&locale=en&layout=compact" alt="devabutaher" /></p>
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=writerabutaher&margin-w=15&theme=dracula" alt="writerabutaher" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devabutaher&margin-w=15&theme=dracula" alt="devabutaher" /></a> </p>
