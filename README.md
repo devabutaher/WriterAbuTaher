@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Assalamu+Alaikum+!;My+name+is+Abu+Taher.;I+am+a+Web+Developer.;Feel+free+to+get+in+touch.;Nice+to+meet+you+!)
 
 
@@ -19,6 +21,14 @@
 - 📄 Check My Resume **[Abu Taher](https://drive.google.com/file/d/1DwZ66Vk4bN5g_Oj-fVobGA5twpayYbUu/view?usp=sharing)**
 
 <br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,js,ts,react,next,redux,nodejs,express,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" alt="framermotion" width="40" height="40" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
