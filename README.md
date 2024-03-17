@@ -1,77 +1,82 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Assalamu+Alaikum+!;My+name+is+Abu+Taher.;I+am+a+Web+Developer.;Feel+free+to+get+in+touch.;Nice+to+meet+you+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=blue&size=60&center=true&vCenter=true&width=900&height=100&lines=Assalamu+Alaikum;My+name+is+Abu+Taher;Front+End+Developer;MERN+Stack+Developer;Full+Stack+Developer;React/Next+JS+Developer)
 
-
-<h1 align="center">Hello 🤍 I'm Abu Taher</h1>
-<h3 align="center" >Love to build projects with MERN</h3>
-
-<br>
-
-- Currently I'm Working On This Project **[Eye Care](https://eye-care-assignment.web.app/)**
-
-- Currently I'm Learning **Next JS | Redux | MUI**
-
-- Build A Team Project **[Schedu Plannr](https://schedu-plannr.web.app/)**
-
-- See My Portfolio **[Abu Taher](https://abu-taher-portfolio.web.app/)**
-
-- 📧 You Can Email Me **writerabutaher@gmail.com**
-
-- 📄 Check My Resume **[Abu Taher](https://drive.google.com/file/d/1DwZ66Vk4bN5g_Oj-fVobGA5twpayYbUu/view?usp=sharing)**
+<div align="center">
+  <a href="https://www.linkedin.com/in/devabutaher">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://facebook.com/devabutaher">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://twitter.com/devabutaher">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <br>
+<br>
+
+<img width="55%" align="right" alt="Github" src="./assets/github.svg" />
+
+- 💻 My Recent Project **[Speed Xpress](https://speed-xpress-v2.vercel.app)**
+
+- 📚 Currently Learning **Next JS | GraphQL | Python**
+
+- 🖥 Working On A Team Project **[Artify](https://artify-next.vercel.app)**
+
+- 🤍 Visit My Portfolio **[Abu Taher](https://abutaher.vercel.app)**
+
+- 💌 Send Email At **writerabutaher@gmail.com**
+
+- 🔖 Check My Resume **[Abu Taher Resume](https://drive.google.com/file/d/1DwZ66Vk4bN5g_Oj-fVobGA5twpayYbUu/view?usp=sharing)**
+
+- 📑 Check My CV **[Abu Taher CV](https://drive.google.com/file/d/1DwZ66Vk4bN5g_Oj-fVobGA5twpayYbUu/view?usp=sharing)**
+
+<br>
+<br>
+
+<h1 align="center">Technologies & Tools</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,js,ts,react,next,redux,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,materialui,js,ts,react,next,redux,nodejs,express,mongodb" />
 </p>
 
 <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" alt="framermotion" width="40" height="40" />    
+   <img src="https://skillicons.dev/icons?i=firebase,docker,jest,figma,vscode,github" />
+   <img src="https://img.icons8.com/?size=80&id=G7NMjcZM9R01&format=png" alt="framer" width="46" height="46" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/devabutaher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devabutaher/" height="30" width="40" /></a>
-<a href="https://fb.com/abutaher9682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/devabutaher" height="30" width="40" /></a>
-<a href="https://discord.gg/AbuTaher#8693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AbuTaher#8693" height="40" width="40" /></a>
-</p>
+<h1 align="center">Get In Touch</h1>
+
+<div align="center">
+   <a href="https://www.linkedin.com/in/devabutaher" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+   <a href="https://dev.to/writerabutaher" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
+   <a href="https://discord.gg/AbuTaher#8693" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
+   <a href="https://twitter.com/devabutaher" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>   
+   <a href="https://facebook.com/devabutaher" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" width="48" height="48" /></a>  
+   <a href="https://medium.com/@writerabutaher" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" width="48" height="48" /></a>  
+   <a href="https://writerabutaher.hashnode.dev" target="_blank"><img src="https://img.icons8.com/?size=48&id=HnB8zGOh5xgd&format=png" width="48" height="48" /></a>  
+</div>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/officel/1x/react.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/1x/node-js.png" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/1x/express-js.png" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1x/mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40"/> </a> 
-</p>
+<img  width="450em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devabutaher&theme=dracula" alt="streak-stats" /> | <img width="450em" align="center" src="https://github-readme-stats.vercel.app/api?username=devabutaher&show_icons=true&theme=dracula&locale=en" alt="stats" />
+| :-: | :-:
+<img width="450em" src="https://github-profile-trophy.vercel.app/?username=devabutaher&theme=dracula&row=2&column=4&margin-w=10&margin-h=10" alt="trophy" /> | <img width="450em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabutaher&show_icons=true&theme=dracula&locale=en&layout=compact" alt="top-langs" />
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devabutaher&theme=dark" alt="devabutaher" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devabutaher&radius=12&theme=dracula&area=true&order=3" height="300" alt="activity-graph"  />
+</div>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devabutaher&show_icons=true&theme=dracula&locale=en" alt="devabutaher" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-<br>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabutaher&show_icons=true&theme=dracula&locale=en&layout=compact" alt="devabutaher" /></p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devabutaher&margin-w=15&theme=dracula" alt="devabutaher" /></a> </p>
+</div>
