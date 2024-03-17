@@ -26,9 +26,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,js,ts,react,next,redux,nodejs,express,mongodb" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" alt="framermotion" width="40" height="40" />
-</p>
+<div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" alt="framermotion" width="40" height="40" />    
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
