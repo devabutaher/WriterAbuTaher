@@ -61,14 +61,20 @@
 
 <br>
 
-<img  width="450em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devabutaher&theme=dracula" alt="streak-stats" /> | <img width="450em" align="center" src="https://github-readme-stats.vercel.app/api?username=devabutaher&show_icons=true&theme=dracula&locale=en" alt="stats" />
+<img  width="450em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devabutaher&theme=dracula" alt="streak-stats" /> | <img width="450em" align="center" src="https://github-readme-stats.vercel.app/api?username=devabutaher&show_icons=true&theme=dracula&locale=en" alt="stats" /> |
 | :-: | :-:
 <img width="450em" src="https://github-profile-trophy.vercel.app/?username=devabutaher&theme=dracula&row=2&column=4&margin-w=10&margin-h=10" alt="trophy" /> | <img width="450em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabutaher&show_icons=true&theme=dracula&locale=en&layout=compact" alt="top-langs" />
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devabutaher&radius=12&theme=dracula&area=true&order=3" height="300" alt="activity-graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devabutaher&radius=12&theme=dracula&area=true&order=3" height="300"  width="100%" alt="activity-graph"  />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devabutaher&theme=dracula&hide_border=true&radius=12" width="100%" alt="GitHub Contribution" />
 </div>
 
 <br>
